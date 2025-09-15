@@ -153,7 +153,7 @@ When choosing architecture for llm, some parameters or architecture modification
 - Comparasion of few lr values. The classic 0.01 was the most promising during training.
 
 
-The best performing model has following configuration, that has reach loss of **1.20** and with the following configuration: 
+The best performing model has following configuration, that has reach loss of **1.20** on **test** split, and with the following configuration: 
 
 - batch_size:512
 - beta1:0.9
